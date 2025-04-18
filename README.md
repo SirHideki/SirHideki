@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm currently studying Advanced Manufacturing. 🤖
+
+I work at a scale company called Toledo do Brasil. 
+
+Fiance of @Gabriela Vieira Bautista - I love u too ❤️‍🔥
 
 <div>
   <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=SirHideki&show_icons=true&theme=transparent"
