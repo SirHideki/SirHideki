@@ -17,8 +17,8 @@ Fiance of @Gabriela Vieira Bautista - I love u too ❤️‍🔥
 <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;margin-bottom:20px">
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="40" style="filter:drop-shadow(2px 2px 3px #888);margin:5px">
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="40" style="margin:5px">
-  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Ícone Python" width="40" style="margin:5px">
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Ícone JavaScript" width="40" style="margin:5px">
+  <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Ícone Python" width="40" style="margin:5px">
+  <img src="https://cdn-icons-png.flaticon.com/512/1387/1387539.png" alt="Ícone JavaScript" width="40" style="margin:5px">
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="Ícone CSS3" width="40" style="margin:5px">
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="40" style="margin:5px">
 </div>
