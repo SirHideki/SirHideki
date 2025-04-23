@@ -9,7 +9,7 @@ Fiance of @Gabriela Vieira Bautista - I love u too ❤️‍🔥
 \<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <div>
-  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=SirHideki&show_icons=true&theme=transparent"
+  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)"
 </div>
 <br>
 <br>
