@@ -6,7 +6,7 @@ I work at a scale company called Toledo do Brasil.
 Fiance of @Gabriela Vieira Bautista - I love u too ❤️‍🔥
 
 <div>
-  <img  heigt="180cm" src="[https://github-readme-stats.vercel.app/api?username=SirHideki&show_icons=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)"
+  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=SirHideki&show_icons=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)"
 </div>
 <br>
 <br>
