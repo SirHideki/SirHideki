@@ -11,10 +11,19 @@ Fiance of @Gabriela Vieira Bautista - I love u too ❤️‍🔥
     <img src="https://github-readme-stats.vercel.app/api?username=SirHideki&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Estatísticas do GitHub" style="max-width:100%;height:auto">
   </a>
 </div>
-  <img  heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=SirHideki&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)"
+<br>
+<br>
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;margin-bottom:20px">
+  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="Ícone C++" width="40" style="filter:drop-shadow(2px 2px 3px #888);margin:5px">
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="Ícone C" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="Ícone Python" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Ícone JavaScript" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="Ícone CSS3" width="40" style="margin:5px">
+  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Ícone Linux" width="40" style="margin:5px">
 </div>
-<br>
-<br>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SirHideki/SirHideki/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SirHideki/SirHideki/output/pacman-contribution-graph.svg">
