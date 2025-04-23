@@ -1,9 +1,9 @@
 ## Hi there 👋
-I'm currently studying Advanced Manufacturing. 🤖
+I'm currently studying Advanced Manufacturing. <img src="https://cdn-icons-png.flaticon.com/512/11260/11260831.png" alt="Ícone C" width="20" style="margin:5px">
 
 I work at a scale company called Toledo do Brasil. 
 
-Fiance of @Gabriela Vieira Bautista - I love u too ❤️‍🔥
+<img src="https://cdn-icons-png.flaticon.com/512/146/146457.png" alt="Ícone C" width="20" style="margin:5px"> Fiance of @Gabriela Vieira Bautista - I love u too ❤️‍🔥
 
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:20px">
